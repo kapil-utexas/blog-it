@@ -1,3 +1,6 @@
+#Virtualenv Files
+Docusaurus/*
+
 .DS_Store
 
 node_modules
